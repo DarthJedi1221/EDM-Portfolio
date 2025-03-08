@@ -1,7 +1,7 @@
 # EDM-Portfolio
 This portfolio will contain copies of my Enterprise Data Management Lab Exercises
 ### About me 
-Jerome John Turla
+Jerome Jed Turla
 
 To use and practice my chosen career and acquire more knowledge by undergoing rigid training in this company, further more to be able to grow and meet people from all walks of life that will serve and give me fruitful experience.
 ### Education
