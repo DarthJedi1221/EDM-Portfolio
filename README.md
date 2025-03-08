@@ -7,3 +7,5 @@ JJ Turla
 - **HighSchool**:
 - **Elementary**:
 - ### My Project
+- Midterm Task 1:  Data Cleaning and Preparation using EXCEL(url)
+- Midterm Task 2:
