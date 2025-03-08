@@ -9,4 +9,4 @@ To use and practice my chosen career and acquire more knowledge by undergoing ri
 - **College**:Central Luzon Science & Technology College
 - ### My Project
 - Midterm Task 1:  [Data Cleaning and Preparation using EXCEL](https://github.com/DarthJedi1221/EDM-Portfolio/tree/main/Midterm_Task1#readme)
-- Midterm Task 2:
+- Midterm Task 2: [Midterm task 2](https://github.com/patchak2020/EDM-Portfolio/blob/main/Midterm%20Task%202/README.md)
