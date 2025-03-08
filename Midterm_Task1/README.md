@@ -12,7 +12,8 @@ For this task, we are given a flat data file from Excel (See raw file), and we n
 - Perform 3NF
 - Map the normalized tables as a Physical Data Model
  ### Step 3: Screenshot Before Data Cleaning
-(sample of screenshot)
+![EDm1-JT](https://github.com/user-attachments/assets/d859212f-e88f-4447-b0c6-301a5a855c31)
+
 ### Step 4: Screenshot After Data Cleaning
 (sample of screenshot)
 ### Step 5: Physical Data Model
