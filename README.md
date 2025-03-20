@@ -8,6 +8,6 @@ To use and practice my chosen career and acquire more knowledge by undergoing ri
 - **College**:Bachelor of Science in Information System(Undergraduate)CCA
 - **College**:Central Luzon Science & Technology College
 - ### My Project
-- **Midterm Task 1**: [Data Cleaning and Preparation using EXCEL](https://github.com/Blooper1209/Portfolio/blob/main/Midterm%20Task%201/README.md)
+- **Midterm Task 1**: [Data Cleaning and Preparation using EXCEL](https://github.com/DarthJedi1221/EDM-Portfolio/tree/main/Midterm_Task1#readme)
 - **Midterm Task 2**: [Data Cleaning and Transformation using POWER QUERY](https://github.com/DarthJedi1221/EDM-Portfolio/tree/main/Midterm_Task2#readme)
 - **Midterm Task 3**: [Creating PIVOT TABLE and DASHBOARD](https://github.com/DarthJedi1221/EDM-Portfolio/tree/main/Midterm_Task3#readme)
