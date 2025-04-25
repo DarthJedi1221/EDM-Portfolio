@@ -17,7 +17,7 @@ ALTER TABLE products_tbl MODIFY COLUMN product_name VARCHAR(120) NOT NULL;
 <img width="434" alt="Task3Po" src="https://github.com/user-attachments/assets/a3842792-d833-4a6f-9caf-391b21bee6a6" />
 
 ## Task 4 - SQL Copy of the Database and Table Structures
-[Raw Copy of MySQL File](https://github.com/Blooper1209/Portfolio/blob/main/Finals%20Task-3/File/*Blooper)
+
 
 CREATE DATABASE products_db; USE products_db;
 
