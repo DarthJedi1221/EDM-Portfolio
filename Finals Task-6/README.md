@@ -93,7 +93,7 @@ Remove the following movies from the collection:
 - Avatar
 ![image](https://github.com/user-attachments/assets/402163c8-a68f-40e0-aa4f-237e4e16593f)
 ## 📄 Task 6 – MongoDB Files
-[Mongodb files](https://github.com/Blooper1209/Portfolio/blob/main/Finals%20Task-6/Files%20/mongo_practice.movies.json)
+[Mongodb files](https://github.com/DarthJedi1221/EDM-Portfolio/blob/main/Finals%20Task-6/Files/mongo_practice.movies.json)
 
 
 
