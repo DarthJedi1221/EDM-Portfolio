@@ -18,3 +18,4 @@ To use and practice my chosen career and acquire more knowledge by undergoing ri
 - **Final Task 3**: [Table Manipulation](https://github.com/DarthJedi1221/EDM-Portfolio/tree/main/Finals%20Task-3#readme)
 - **Final Task 4**: [Employee Databases](https://github.com/DarthJedi1221/EDM-Portfolio/tree/main/Finals%20Task-4#readme)
 - **Final Task 5**: [Using SQL views and Stored Procedures and Stored Functions](https://github.com/DarthJedi1221/EDM-Portfolio/blob/main/Finals%20Task-5/README.md)
+- **Final Task 6**: [MongoDB Practice](https://github.com/DarthJedi1221/EDM-Portfolio/blob/main/Finals%20Task-6/README.md)
